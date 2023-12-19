@@ -11,11 +11,11 @@ O TaskManager é um projeto de gerenciamento de tarefas desenvolvido com o objet
 
 ## Como Iniciar
 
-   1. **Requisitos:**
+1. **Requisitos:**
    - Java JDK (versão recomendada)
    - Maven
 
-   2. **Clone o Repositório:**
+2. **Clone o Repositório:**
    ```bash
    git clone https://github.com/danilobarretoooo/TaskManager.git
 
@@ -24,7 +24,7 @@ O TaskManager é um projeto de gerenciamento de tarefas desenvolvido com o objet
 
 * [SpringBoot](https://spring.io/projects/spring-boot) - O framework web usado
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
-
+      
 
 ## ✒️ Autores
 
