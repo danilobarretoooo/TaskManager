@@ -1,42 +1,43 @@
-Projeto Spring Boot com Thymeleaf
-Bem-vindo ao meu projeto Spring Boot com Thymeleaf! Este projeto destaca meu aprendizado contínuo e aplicação prática de conceitos essenciais no desenvolvimento web. Abaixo estão informações cruciais para entender, configurar e contribuir para o projeto.
+# TaskManager
 
-Tecnologias Utilizadas
-Spring Boot: Framework que simplifica o desenvolvimento de aplicativos Java, proporcionando uma configuração mínima e uma experiência de desenvolvimento rápida.
-Thymeleaf: Motor de template para construção de interfaces dinâmicas em aplicações web.
-Recursos Principais
-Interatividade Dinâmica: Implementação de recursos interativos para uma experiência do usuário envolvente.
-Segurança Robusta: Controle de acesso e medidas de proteção contra vulnerabilidades comuns.
-Arquitetura Escalável: Design modular e escalável para futuras expansões.
-Como Iniciar
-Requisitos:
+O TaskManager é um projeto de gerenciamento de tarefas desenvolvido com o objetivo de proporcionar uma solução eficiente e intuitiva para organizar suas atividades diárias. Esta aplicação, construída com Spring Boot e Thymeleaf, incorpora conceitos fundamentais de desenvolvimento web para fornecer uma experiência de usuário aprimorada.
 
-Java JDK (versão recomendada)
-Maven
-Clone o Repositório:
+## Funcionalidades Principais
 
-bash
-Copy code
-git clone [URL do Repositório]
-Execute o Projeto:
+- **Cadastro de Tarefas:** Adicione, edite e remova tarefas facilmente.
+- **Priorização e Categorização:** Atribua prioridades e categorias a suas tarefas para uma organização mais eficiente.
+- **Notificações:** Receba lembretes e notificações para tarefas pendentes.
+- **Histórico de Atividades:** Mantenha um registro completo de suas atividades passadas.
 
-bash
-Copy code
-cd nome-do-projeto
-mvn spring-boot:run
-Acesse a Aplicação:
-Navegue para http://localhost:8080 em seu navegador.
+## Como Iniciar
 
-Contribuição
-Contribuições são bem-vindas! Siga estes passos para contribuir:
+   1. **Requisitos:**
+   - Java JDK (versão recomendada)
+   - Maven
 
-Faça um fork do projeto.
-Crie uma branch para suas alterações: git checkout -b feature/nome-da-feature.
-Faça commit das suas alterações: git commit -m 'Adiciona nova feature'.
-Faça push para a branch: git push origin feature/nome-da-feature.
-Abra um pull request.
-Feedback
-Feedbacks e sugestões são fundamentais para a melhoria contínua deste projeto. Sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+   2. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/danilobarretoooo/TaskManager.git
 
-Licença
-Este projeto está licenciado sob a Licença MIT.
+## 🛠️ Construído com
+
+
+* [SpringBoot](https://spring.io/projects/spring-boot) - O framework web usado
+* [Maven](https://maven.apache.org/) - Gerente de Dependência
+
+
+## ✒️ Autores
+
+
+
+* **Danilo Barreto** - *Back-End* - [danilobarretoooo](https://github.com/danilobarretoooo)
+* **Jose Guilherme** - *Front-End* - [Jose Guilherme](https://github.com/guilherme9822)
+
+
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+* Um agradecimento publicamente 🫂;
+* etc.
